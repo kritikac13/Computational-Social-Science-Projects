@@ -1,0 +1,8 @@
+git clone https://github.com/kritikac13/Computational-Social-Science-Projects.git
+cd Computational-Social-Science-Projects
+mkdir Project1
+cd Project1
+touch Project1
+git add .
+git commit -m "Project1"
+git push origin main
